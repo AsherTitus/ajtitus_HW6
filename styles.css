@@ -1,22 +1,19 @@
 body {
-    background-color: beige;
+    background-color: beige ;
 }
 
 h1 {
-    color: blue;
+    color: navy;
     font-style: italic;
 }
 
 /* CSS classes */
-
-.error {
-    color: red;
-    font-weight: bold;
-}
 
 /* CSS IDs */
 #page_title {
     color: blueviolet;
     font-weight: bold;
     font-size: 3rem;
+    border: 1PX black;
+    padding: 25px;
 }
