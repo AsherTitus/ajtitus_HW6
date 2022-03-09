@@ -1,0 +1,17 @@
+.DS_Store
+
+.VSCode
+
+.env
+
+venv/
+
+__pychache__/
+*.py[cod]
+*$py.class
+
+.Rproj.user
+.Rdata
+.Rhistory
+
+.ebextensions/environment_variables.config

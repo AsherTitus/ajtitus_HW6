@@ -1,0 +1,22 @@
+body {
+    background-color: beige;
+}
+
+h1 {
+    color: blue;
+    font-style: italic;
+}
+
+/* CSS classes */
+
+.error {
+    color: red;
+    font-weight: bold;
+}
+
+/* CSS IDs */
+#page_title {
+    color: blueviolet;
+    font-weight: bold;
+    font-size: 3rem;
+}
