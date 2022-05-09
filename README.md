@@ -34,7 +34,7 @@
 
 
 ## Screenshots
-![Example Navigation Pane](./Untitled/brad.jpg)
+![Picture on Site](./brad.jpg)
 
 
 ## Project Status
