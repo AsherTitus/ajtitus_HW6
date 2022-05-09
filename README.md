@@ -34,7 +34,7 @@
 
 
 ## Screenshots
-![Picture on Site](./brad.jpg)
+![Picture on Site](./brad.JPG)
 
 
 ## Project Status
