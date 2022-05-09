@@ -47,8 +47,7 @@ I could increase the amount of information and pictures that are related to me. 
 
 ## Acknowledgements
 - This project was inspired by Professor Mike Colbert.
-- This project was based on [this template](https://www.free-css.com/free-css-templates/page259/the-town).
-- You can download this free template if you are interested.
+- This project was based on an example given in class.
 
 
 ## Contact
